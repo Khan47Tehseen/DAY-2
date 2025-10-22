@@ -1,0 +1,16 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Simple front-end To-Do list app built with HTML, CSS, and vanilla JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server --open=./index.html --port=0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
